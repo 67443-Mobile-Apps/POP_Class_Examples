@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Protoccols and Extensions.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Doctors and Surgeons.playground">
+   </FileRef>
+   <FileRef
+      location = "group:POP.playground">
+   </FileRef>
+   <FileRef
+      location = "group:map_examples.playground">
+   </FileRef>
+   <FileRef
+      location = "group:flatmap_examples.playground">
+   </FileRef>
+   <FileRef
+      location = "group:filter_examples.playground">
+   </FileRef>
+   <FileRef
+      location = "group:reduce_examples.playground">
+   </FileRef>
+   <FileRef
+      location = "group:sort_examples.playground">
+   </FileRef>
+   <FileRef
+      location = "group:sandbox.playground">
+   </FileRef>
+</Workspace>
